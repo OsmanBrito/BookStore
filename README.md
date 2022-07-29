@@ -1,5 +1,13 @@
 # bookstore
 
+### iOS:
+
+![](https://github.com/OsmanBrito/BookStore/blob/main/assets/ios-gif.gif)
+
+### Android:
+
+![](https://github.com/OsmanBrito/BookStore/blob/main/assets/android-ios.gif)
+
 A new Flutter project.
 
 ## Getting Started
